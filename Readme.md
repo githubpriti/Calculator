@@ -19,7 +19,7 @@ What I learned in this:
 ![lco](./Web%20capture_2-2-2023_143827_127.0.0.1.jpeg)
 ![lco](./Web%20capture_2-2-2023_143846_127.0.0.1.jpeg)
 
-## [Live Project Link](https://boisterous-klepon-2e8925.netlify.app)
+## [Live Project Link](https://calculator-hazel-ten.vercel.app/)
 
 For any query you can reach out at jajuvh@gmail.com I am happy to help anytime.
 
